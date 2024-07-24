@@ -1,4 +1,3 @@
-```markdown
 # Data Cleaning in Python
 
 This project demonstrates the process of cleaning a messy, **mock** healthcare dataset using Python, focusing on handling missing values, inconsistent data formats, and other common data cleaning tasks.
